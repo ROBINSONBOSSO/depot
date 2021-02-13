@@ -8,7 +8,7 @@
       username: "{{ vcenter_user }}"
       password: "{{ vcenter_pass }}"
       folder: VMtemplate
-      name: testvm1
+      name: testvm11
       state: poweredoff
       guest_id: centos64Guest
       datastore: FreeNAS_LabVMware
